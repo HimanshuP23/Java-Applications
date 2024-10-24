@@ -13,7 +13,7 @@ public class TestMyMess {
 			boolean exit = false;
 			
 			while(!exit) {
-				System.out.println("Options \n"
+				System.out.println("Options \n" 
 						+ "1.Sign UpCustomer \n"
 						+ "2.Display Details \n"
 						+ "3. Sign In \n"
